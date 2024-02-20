@@ -61,9 +61,9 @@ gh a:hover,
 .ig a:hover,
 .link a:hover,
 .x a:hover {
-    color: rgb(84, 73, 73); /* Change text color on hover */
-    background-color: rgba(233, 222, 222, 0.3); /* Add a semi-transparent background color on hover */
-    border-radius: 5px; /* Optional: Add rounded corners on hover */
+    color: rgb(84, 73, 73); 
+    background-color: rgba(233, 222, 222, 0.3); 
+    border-radius: 5px; 
 }
 ```
 
