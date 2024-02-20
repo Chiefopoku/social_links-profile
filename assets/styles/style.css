@@ -63,19 +63,23 @@ body, html {
     height: 30px;
     padding: 10px;
     transform: scale(0.9);
-    font-family: 'MyFont', sans-serif; 
+    font-family: 'MyFont', sans-serif;
+    box-shadow: 10px; 
 }
 
-.gh a:hover,
-.fm a:hover,
-.ig a:hover,
-.link a:hover,
-.x a:hover {
-    color: rgb(84, 73, 73); 
-    background-color: rgba(233, 222, 222, 0.3); 
+.gh:hover,
+.fm:hover,
+.ig:hover,
+.link:hover,
+.x:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: rgb(8, 10, 10); 
     border-radius: 5px; 
-}
 
+}
+a:hover {color: black;
+
+}
 a {
     
     color: azure;
