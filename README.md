@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Chiefopoku/social_links-profile](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -76,15 +76,15 @@ I look forward to improving my knowledge in custom css and improving readability
 
 ### Useful resources
 
-- [Example resource 1](https://learn.shayhowe.com/html-css/positioning-content/) - This helped me with positioning of divs and other css customizations. I really liked the information and study guide provided by this site and will use it going forward.
-- [Example resource 2](https://www.codecademy.com/) - This is an amazing website with tons of resources and practice guides which helped me finally understand html tags. I'd recommend it to anyone still learning this concept.
+- [resource 1](https://learn.shayhowe.com/html-css/positioning-content/) - This helped me with positioning of divs and other css customizations. I really liked the information and study guide provided by this site and will use it going forward.
+- [resource 2](https://www.codecademy.com/) - This is an amazing website with tons of resources and practice guides which helped me finally understand html tags. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
 
 - Website - [Emmanuel Opou-Adjei](https://github.com/Chiefopoku)
 - Frontend Mentor - [@Chiefopoku](https://www.frontendmentor.io/profile/Chiefopoku)
-- Twitter - [@chieffzz](hhttps://twitter.com/chieffzz)
+- Twitter - [@chieffzz](hhttps://twitter.com/chieffzz) 
 
 
 
