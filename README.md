@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Chiefopoku/social_links-profile](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Chiefopoku/social_links-profile
+- Live Site URL: (https://chiefopoku.github.io/social_links-profile/)
 
 ## My process
 
