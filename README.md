@@ -82,7 +82,7 @@ I look forward to improving my knowledge in custom css and improving readability
 
 ## Author
 
-- Website - [Emmanuel Opou-Adjei](https://github.com/Chiefopoku)
+- Website - [Emmanuel Opoku-Adjei](https://github.com/Chiefopoku)
 - Frontend Mentor - [@Chiefopoku](https://www.frontendmentor.io/profile/Chiefopoku)
 - Twitter - [@chieffzz](hhttps://twitter.com/chieffzz) 
 
