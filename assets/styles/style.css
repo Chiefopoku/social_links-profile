@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./assets/fonts/static/Inter-Bold.tff') format('woff'),
+         url('./assets/fonts/Inter-VariableFont_slnt.tff') format('woff'),
+         url('./assets/fonts/static/Inter-Regular.tff') format('woff'),
+         url('./assets/fonts/static/Inter-SemiBold.tff') format('woff'),;
+    /* Add additional font formats if necessary */
+}
+
+a {
+    text-decoration: none;
+}
+h2, h3, p {
+    text-align: center;
+}
+body {
+    width: 1440px;
+    font-family: 'MyFont', sans-serif;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-color: hsl(0, 0%, 10%);
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    background-color:hsl(0, 0%, 20%);
+    height: 700px;
+    width: 450px;
+    border-radius: 10px;
+    transform: scale(0.8);
+}
+
+.image img {
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.attribution {
+    position: absolute;
+    bottom: 0;
+    left: 0; 
+    text-align: center; 
+    margin: 1%;
+    color: hsl(0, 0%, 100%); 
+}
+
+.gh, .fm, .ig, .link, .x {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+    margin-bottom: 3%;
+    border-radius: 5px;
+    background-color: rgb(118, 116, 116);
+    height: 30px;
+    padding: 10px;
+    transform: scale(0.9);
+}
+
+.gh a:hover,
+.fm a:hover,
+.ig a:hover,
+.link a:hover,
+.x a:hover {
+    color: rgb(84, 73, 73); 
+    background-color: rgba(233, 222, 222, 0.3); 
+    border-radius: 5px; 
+}
+
+a {
+    
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: 100%;
+}
+
+h2, p {
+    color: azure;
+}
+p {
+    font-size: 14px;
+}
+h3 {
+    color: hsl(75, 94%, 57%);
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution { color: hsl(228, 45%, 44%); }
+
+h2 {
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+}
+
+.profile {
+    width: 90%;
+}
+.socials {
+    width: 90%;
+   margin: 2px;
+}
+
+.container {
+    transform: scale(0.95); 
+}
+
+/* Add a media query for screens smaller than 768px (typical mobile devices) */
+@media screen and (max-width: 768px) {
+    .container {
+        width: 375px; 
+        max-width: none; 
+        overflow-y: auto;
+    }
+
+}
