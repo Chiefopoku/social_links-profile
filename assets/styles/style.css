@@ -63,6 +63,7 @@ body, html {
     height: 30px;
     padding: 10px;
     transform: scale(0.9);
+    font-family: 'MyFont', sans-serif; 
 }
 
 .gh a:hover,
@@ -78,7 +79,7 @@ body, html {
 a {
     
     color: azure;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'MyFont', sans-serif; 
     font-weight: 900;
     font-size: 100%;
 }
