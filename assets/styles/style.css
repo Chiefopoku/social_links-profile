@@ -79,6 +79,8 @@ body, html {
 }
 a:hover {color: black;
 
+
+
 }
 a {
     
@@ -103,13 +105,10 @@ h2 {
 }
 
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution { color: hsl(228, 45%, 44%);
-        display: flex;
-        align-items: center; 
-        justify-content: center; 
-        text-align: center; 
-        }
+.attribution { font-size: 10px; text-align: justify; }
+.attribution { color: hsl(75, 94%, 57%);
+    }
+
 
 h2 {
     text-decoration: none;
